@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.keys {
+  align-items: center;
+  background-image: url('https://images.unsplash.com/photo-1513829596324-4bb2800c5efb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80');
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.key {
+  background: rgba(0,0,0,0.5);
+  border: 2px solid white;
+  color: white;
+  font-size: 35px;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  transition: all 0.15s;
+}
+
+.key--active {
+  border-color: rgb(255, 65, 65);
+  box-shadow: 0 0 10px rgb(255, 65, 65);
+  transform: scale(1.1);
+}
+
+.key span {
+  display: block;
+  font-size: 18px;
+}
