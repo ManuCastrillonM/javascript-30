@@ -1,0 +1,27 @@
+:root {
+  --base: #42a5f5;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+body {
+  align-items: center;
+  background-color: #0077c2;
+  color: #fff;
+  display: flex;
+  flex-flow: column;
+  font-family: 'helvetica';
+  justify-content: center;
+}
+
+img {
+  background: var(--base);
+  filter: blur(var(--blur));
+  margin-top: 50px;
+  max-width: 600px;
+  padding: var(--spacing);
+}
+
+.js-title {
+  color: var(--base);
+}
