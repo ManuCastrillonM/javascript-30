@@ -1,3 +1,10 @@
+const keys = document.querySelectorAll('.key');
+keys.forEach(key => {
+  key.addEventListener('transitionend', removeTransition);
+});
+
+window.addEventListener('keydown', playSound);
+
 function playSound(e) {
   const audioElement = document.querySelector(`audio[data-key="${event.keyCode}"]`);
   const key = document.querySelector(`.key[data-key="${event.keyCode}"]`);
@@ -12,10 +19,3 @@ function removeTransition(e) {
   if(e.propertyName !== 'transform') return;
   this.classList.remove('key--active');
 }
-
-window.addEventListener('keydown', playSound);
-
-const keys = document.querySelectorAll('.key');
-keys.forEach(key => {
-  key.addEventListener('transitionend', removeTransition);
-});
