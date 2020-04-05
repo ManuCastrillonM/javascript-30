@@ -1,20 +1,20 @@
 :root {
-  --base: #42a5f5;
+  --base: #7FB285;
   --spacing: 10px;
-  --blur: 10px;
+  --blur: 5px;
 }
 
 body {
   align-items: center;
-  background-color: #0077c2;
-  color: #fff;
+  background-color: #AFD2E9;
+  color: #FFF;
   display: flex;
   flex-flow: column;
   font-family: 'helvetica';
   justify-content: center;
 }
 
-img {
+.image {
   background: var(--base);
   filter: blur(var(--blur));
   margin-top: 50px;

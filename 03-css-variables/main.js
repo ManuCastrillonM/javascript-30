@@ -1,5 +1,4 @@
 const controls = document.querySelectorAll('input');
-console.log(controls);
 
 controls.forEach(control => {
   control.addEventListener('change', updateUI)
