@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.container {
+  align-items: center;
+  background: #383D3B;
+  color: #EEE5E9;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Coustard', serif;
+  height: 100vh;
+  justify-content: center;
+}
