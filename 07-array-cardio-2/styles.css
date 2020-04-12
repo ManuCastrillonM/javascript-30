@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.container {
+  align-items: center;
+  background: #CAE9FF;
+  color: #1B4965;
+  display: flex;
+  font-size: 5em;
+  height: 100vh;
+  justify-content: center;
+}
