@@ -4,7 +4,15 @@
 
 - [Home](https://manucastrillonm.github.io/javascript-30/)
 - 01 JavaScript Drum Kit: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/01-javascript-drum-kit) - [Demo](https://manucastrillonm.github.io/javascript-30/01-javascript-drum-kit)
-
+- 02 CSS & JS Clock: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/02-css-js-clock) - [Demo](https://manucastrillonm.github.io/javascript-30/02-css-js-clock)
+- 03 CSS Variables: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/03-css-variables) - [Demo](https://manucastrillonm.github.io/javascript-30/03-css-variables)
+- 04 Array cardio: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/04-array-cardio-1) - [Demo](https://manucastrillonm.github.io/javascript-30/04-array-cardio-1)
+- 05 Flex panels gallery: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/05-flex-panels-gallery) - [Demo](https://manucastrillonm.github.io/javascript-30/05-flex-panels-gallery)
+- 06 Ajax type ahead: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/06-ajax-type-ahead) - [Demo](https://manucastrillonm.github.io/javascript-30/06-ajax-type-ahead)
+- 07 Array cardio 2: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/07-array-cardio-2) - [Demo](https://manucastrillonm.github.io/javascript-30/07-array-cardio-2)
+- 08 Fun with canvas: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/08-fun-with-canvas) - [Demo](https://manucastrillonm.github.io/javascript-30/08-fun-with-canvas)
+- 09 Must know dev tools tricks: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/09-dev-tools-tricks) - [Demo](https://manucastrillonm.github.io/javascript-30/09-dev-tools-tricks)
+- 10 Hold shift to check multiple checkboxes: [Code](https://github.com/ManuCastrillonM/javascript-30/tree/master/10-multiple-checkboxes) - [Demo](https://manucastrillonm.github.io/javascript-30/10-multiple-checkboxes)
 
 ### Some cool solutions 🤩
 
